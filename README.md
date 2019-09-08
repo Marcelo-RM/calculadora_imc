@@ -1,6 +1,6 @@
-# myapp
+# Calculadora IMC
 
-A new Flutter project.
+Segunda aplicação utilizando o flutter.
 
 ## Getting Started
 
